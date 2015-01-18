@@ -115,6 +115,7 @@ a.highslide-credits:hover i {
 }
 .hidden-container {
 	display: none;
+	font-size:10pt;
 }
 /* Example of a semitransparent, offset closebutton */
 .closebutton {
